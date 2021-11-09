@@ -2,6 +2,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
+#test
 
 # VM box image
 VAGRANT_BOX = 'ubuntu/trusty64'
